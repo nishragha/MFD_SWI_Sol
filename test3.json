@@ -1,0 +1,50 @@
+[
+    {
+        "Response1": {
+            "Result1": "PASSED",
+            "Result2": 4.87,
+            "Result3": "92%",
+            "Result4": "A3F1B7"
+        }
+    },
+    {
+        "Response2": {
+            "Result1": "FAILED",
+            "Result2": 2.34,
+            "Result3": "67%",
+            "Result4": "9E4C2D"
+        }
+    },
+    {
+        "Response3": {
+            "Result1": "PASSED",
+            "Result2": 5.12,
+            "Result3": "88%",
+            "Result4": "F5A1C3"
+        }
+    },
+    {
+        "Response4": {
+            "Result1": "FAILED",
+            "Result2": 3.20,
+            "Result3": "71%",
+            "Result4": "B2D3F4"
+        }
+    },
+    {
+        "Response5": {
+            "Result1": "PASSED",
+            "Result2": 4.56,
+            "Result3": "95%",
+            "Result4": "C0A12"
+        }
+    },
+	{
+        "Response6": {
+            "Result1": "PASSED",
+            "Result2": 10.34,
+            "Result3": "99%",
+            "Result4": "BEEFED"
+        }
+    }
+]
